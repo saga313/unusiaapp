@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68229448064",
+    "project_id": "unusia-f183f",
+    "storage_bucket": "unusia-f183f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68229448064:android:3395768bc9d27899c04165",
+        "android_client_info": {
+          "package_name": "com.example.unu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68229448064-9eanqg24849edv2jbgern9d415gf4lcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz7hV1EVCfEdmWc3Tz9ybSB9eS9f_jN88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68229448064-9eanqg24849edv2jbgern9d415gf4lcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

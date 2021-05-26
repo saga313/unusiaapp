@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UNU</string>
+    <string name="unu">unu</string>
+    <string name="masukan_username">Masukan Username</string>
+    <string name="masukan_password">Masukan password</string>
+    <string name="user">user</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="login_berhasil">Login Berhasil</string>
+    <string name="logout">LOGOUT</string>
+    <string name="knowledge">Knowledge</string>
+    <string name="faith">Faith</string>
+    <string name="wisdom">Wisdom</string>
+
+</resources>
